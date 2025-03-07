@@ -97,7 +97,7 @@ This project explores crime trends in Los Angeles from 2020 to 2024 using **data
 - **Confidence interval widens over time**, reflecting increasing uncertainty.
 
 ### 🔮 Future Crime Trend Forecast
-![Crime Forecasting](Crime%20Forecasting%20Visualization%20(1).png)
+![Crime Forecasting](https://github.com/NirmalKumar31/Los-Angeles-Crime-Analysis-and-Predictive-Modeling/blob/a7b71e5cefaf98283f5f1d5c34a78fe94928994e/Crime%20Forecasting%20Visualization.png)
 
 ---
 
