@@ -99,6 +99,8 @@ This project explores crime trends in Los Angeles from 2020 to 2024 using **data
 ### 📊 Crime Trends during COVID-19
 ![Crime Trends during COVID-19](https://github.com/NirmalKumar31/Los-Angeles-Crime-Analysis-and-Predictive-Modeling/blob/f3d3f67bb25e7e049d8009ce0e759eb0567e272b/Crime%20rate%20Analysis%20during%20COVID-19%20Visualization.png)
 
+---
+
 ### 🔮 Future Crime Trend Forecast
 ![Crime Forecasting](https://github.com/NirmalKumar31/Los-Angeles-Crime-Analysis-and-Predictive-Modeling/blob/a7b71e5cefaf98283f5f1d5c34a78fe94928994e/Crime%20Forecasting%20Visualization.png)
 
