@@ -31,7 +31,6 @@ This project explores crime trends in Los Angeles from 2020 to 2024 using **data
  ├── 🤖 Predictive Modeling (ARIMA Forecasting)
  ├── 📄 Report & Findings
 ```
-
 ---
 
 ## 📊 Data Processing & Methodology
@@ -103,7 +102,7 @@ This project explores crime trends in Los Angeles from 2020 to 2024 using **data
 ---
 
 ## 📜 Full Report
-📄 Read the full **Los Angeles Crime Analysis and Predictive Modeling Report** [here](Los%20Angeles%20Crime%20Analysis%20and%20Predictive%20Modeling-%20Project%20Report%20(1).pdf).
+📄 Read the full **Los Angeles Crime Analysis and Predictive Modeling Report** [here](https://github.com/NirmalKumar31/Los-Angeles-Crime-Analysis-and-Predictive-Modeling/blob/fb7f8ebc50306c3216f22134619ff0c53bc17eb8/Los%20Angeles%20Crime%20Analysis%20and%20Predictive%20Modeling-%20Project%20Report%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20(1).pdf).
 
 ---
 
